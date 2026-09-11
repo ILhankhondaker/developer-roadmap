@@ -36,7 +36,7 @@
     "jose": "^4.15.4",
     "js-cookie": "^3.0.5",
     "lucide-react": "^0.288.0",
-    "nanoid": "^5.0.2",
+    "nanoid": "^5.1.16",
     "nanostores": "^0.9.4",
     "node-html-parser": "^6.1.10",
     "npm-check-updates": "^16.14.6",
