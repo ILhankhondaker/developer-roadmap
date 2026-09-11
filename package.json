@@ -60,7 +60,7 @@
     "csv-parser": "^3.0.0",
     "gh-pages": "^6.0.0",
     "js-yaml": "^4.1.0",
-    "markdown-it": "^13.0.2",
+    "markdown-it": "^14.2.0",
     "openai": "^4.13.0",
     "prettier": "^3.0.3",
     "prettier-plugin-astro": "^0.12.0",
