@@ -34,7 +34,7 @@
     "clsx": "^2.0.0",
     "dracula-prism": "^2.1.13",
     "jose": "^4.15.4",
-    "js-cookie": "^3.0.5",
+    "js-cookie": "^3.0.7",
     "lucide-react": "^0.288.0",
     "nanoid": "^5.0.2",
     "nanostores": "^0.9.4",
